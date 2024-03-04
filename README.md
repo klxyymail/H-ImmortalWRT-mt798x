@@ -1,3 +1,6 @@
+默认配置使用h大新开发的mtwifi-cfg无线配置工具
+
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt

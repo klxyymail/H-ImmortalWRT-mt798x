@@ -1,5 +1,7 @@
 云编译7981固件
 
+（p3terx 2021版 基于ubuntu20.04）
+
 360T7主路由固件，含插件DDNS, SSR PLUS
 
 JCG Q30 PRO极简AP固件。h大模板默认插件。
